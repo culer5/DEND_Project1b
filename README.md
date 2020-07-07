@@ -5,7 +5,7 @@ This is a project that I completed as part of the Udacity Data Engineering cours
 ### Query 2: Give me only the following: name of artist, song (sorted by itemInSession) and user (first and last name) for userid = 10, sessionid = 182
 ### Query 3: Give me every user name (first and last) in my music app history who listened to the song 'All Hands Against His Own'
 
-Note: the first two queries were straightforward, however the last query required a primary key and a clustering key in order to create unique identifiers. One thing that really hung me up was that you can not ever have more than one set of values for one primary key and that you will only see the last write. That was something was very important and had I understood that better, I would have saved me some frutration with the last query.
+Note: the first two queries were straightforward, however the last query required a primary key and a clustering key in order to create unique identifiers. One thing that really hung me up was that you can not ever have more than one set of values for one primary key and that you will only see the last write. That was something was very important and had I understood that better, I would have saved me some frustration with the last query.
 
 ## Data and Code
 
