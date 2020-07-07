@@ -14,9 +14,8 @@ The dataset for the project is contained in event_data directory, which is a dir
 
 In addition to the data files, the project workspace includes two files:
 
-Project_1B_ Project_Template.ipynb : contains all the project data modelling code and ETL
-
-event_datafile_new.csv which is a smaller datast of the csv files. 
+* Project_1B_ Project_Template.ipynb : contains all the project data modelling code and ETL
+* event_datafile_new.csv which is a smaller datast of the csv files. 
 
 
 ## Prequisites
